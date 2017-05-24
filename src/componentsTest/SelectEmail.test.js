@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import renderer from 'react-test-renderer';
 
 import {users} from '../data/data';
@@ -65,5 +66,19 @@ it('changes in the background color',() => {
     tree = component.toJSON();
 
     expect(tree).toMatchSnapshot();
-    
 })
+
+it('Check states', function(){
+    var component = ReactDOM.render(<SelectEmail title="User emails" options={users} />, document.createElement('div'));
+    expect(component.state.className).toBe('normal');
+    expect(component.state.color).toBe('white');
+    component._onClickHandler();
+    expect(component.state.className).toBe('clicked');
+    expect(component.state.color).toBe('lightgreen');
+    component._onMouseOverHandler();
+    expect(component.state.className).toBe('clicked');
+    expect(component.state.color).toBe('green');
+    component._onMouseOutHandler();
+    expect(component.state.className).toBe('normal');
+    expect(component.state.color).toBe('white');
+});
