@@ -1,0 +1,1332 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes in the background color 1`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes in the background color 2`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="clicked"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "lightgreen",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes in the background color 3`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="clicked"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "green",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes in the background color 4`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when click 1`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when click 2`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="clicked"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "lightgreen",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "lightgreen",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when the mouse is out 1`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when the mouse is out 2`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when the mouse is over 1`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`changes the background color when the mouse is over 2`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="clicked"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "green",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div>
+  <h2>
+    User emails
+  </h2>
+  <select
+    autoFocus="true"
+    className="normal"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={1}
+    >
+      Sincere@april.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={2}
+    >
+      Shanna@melissa.tv
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={3}
+    >
+      Nathan@yesenia.net
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={4}
+    >
+      Julianne.OConner@kory.org
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={5}
+    >
+      Lucio_Hettinger@annie.ca
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={6}
+    >
+      Karley_Dach@jasper.info
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={7}
+    >
+      Telly.Hoeger@billy.biz
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={8}
+    >
+      Sherwood@rosamond.me
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={9}
+    >
+      Chaim_McDermott@dana.io
+    </option>
+    <option
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+      value={10}
+    >
+      Rey.Padberg@karina.biz
+    </option>
+  </select>
+</div>
+`;
