@@ -1,0 +1,49 @@
+'use strict';var _suma = require('./suma');var _suma2 = _interopRequireDefault(_suma);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+describe('other test', function () {
+
+    it('adds 1 + 2 to equal 3', function () {
+        expect((0, _suma2.default)(1, 2)).toBe(3);
+    });
+
+    it('two plus two is four', function () {
+        expect(2 + 2).toBe(4);
+    });
+
+    it('object assignment', function () {
+        var data = { one: 1 };
+        data['two'] = 2;
+        expect(data).toEqual({ one: 1, two: 2 });
+    });
+
+    it('null', function () {
+        var n = null;
+        expect(n).toBeNull();
+        expect(n).toBeDefined();
+        expect(n).not.toBeUndefined();
+        expect(n).not.toBeTruthy();
+        expect(n).toBeFalsy();
+    });
+
+    it('zero', function () {
+        var z = 0;
+        expect(z).not.toBeNull();
+        expect(z).toBeDefined();
+        expect(z).not.toBeUndefined();
+        expect(z).not.toBeTruthy();
+        expect(z).toBeFalsy();
+    });
+
+    test('two plus two', function () {
+        var value = 2 + 2;
+        expect(value).toBeGreaterThan(3); // >
+        expect(value).toBeGreaterThanOrEqual(3.5); //>=
+        expect(value).toBeLessThan(5); //<
+        expect(value).toBeLessThanOrEqual(4.5); //<=
+
+        // toBe and toEqual are equivalent for numbers
+        expect(value).toBe(4);
+        expect(value).toEqual(4);
+    });
+
+});

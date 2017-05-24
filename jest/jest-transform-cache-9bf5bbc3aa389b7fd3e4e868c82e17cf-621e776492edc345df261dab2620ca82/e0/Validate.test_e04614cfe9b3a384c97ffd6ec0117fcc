@@ -1,0 +1,21 @@
+'use strict';var _Validate = require('./Validate');var _Validate2 = _interopRequireDefault(_Validate);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+describe('isValidLength method', function () {
+    it('length >= 8', function () {
+        expect(_Validate2.default.isValidLength('aaaaaaaa')).toBeTruthy();
+    });
+
+    it('length < 8', function () {
+        expect(_Validate2.default.isValidLength('aaaaa')).toBeFalsy();
+    });
+});
+
+describe('isAlphaNumeric method', function () {
+    it('alphabetic chars only', function () {
+        expect(_Validate2.default.isAlphaNumeric('qwerty')).toBeTruthy();
+    });
+
+    it('numeric chars onlu', function () {
+        expect(_Validate2.default.isAlphaNumeric('3423434')).toBeFalsy();
+    });
+});

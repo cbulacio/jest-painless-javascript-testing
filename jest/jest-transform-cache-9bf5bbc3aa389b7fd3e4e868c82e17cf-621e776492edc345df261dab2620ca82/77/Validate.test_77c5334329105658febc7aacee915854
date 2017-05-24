@@ -1,0 +1,10 @@
+var Validate = require('./Validate');
+describe('isValidLength method', () => {
+    it('length >= 8', () => {
+        expect(Validate.isValidLength('aaaaaaaa')).toBeTruthy();
+    });
+
+    it('length < 8', () => {
+        expect(Validate.isValidLength('aaaaa')).toBeFalsy();
+    });
+});

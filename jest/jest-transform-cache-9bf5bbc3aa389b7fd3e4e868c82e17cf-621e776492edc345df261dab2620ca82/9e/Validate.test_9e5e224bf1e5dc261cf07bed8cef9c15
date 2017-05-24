@@ -1,0 +1,44 @@
+'use strict';var _Validate = require('./Validate');var _Validate2 = _interopRequireDefault(_Validate);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+describe('isValidLength method', function () {
+    it('length >= 8', function () {
+        expect(_Validate2.default.isValidLength('aaaaaaaa', 8)).toBeTruthy();
+    });
+
+    it('length < 8', function () {
+        expect(_Validate2.default.isValidLength('aaaaa', 8)).toBeFalsy();
+    });
+
+    it('length >= 1', function () {
+        expect(_Validate2.default.isValidLength('a', 1)).toBeTruthy();
+    });
+
+    it('length > 1', function () {
+        expect(_Validate2.default.isValidLength('', 1)).toBeFalsy();
+    });
+});
+
+describe('isAlphaNumeric method', function () {
+    it('alphanumeric string', function () {
+        expect(_Validate2.default.isAlphaNumeric('qwerty')).toBeTruthy();
+    });
+
+    it('alphabetic string', function () {
+        expect(_Validate2.default.isAlphaNumeric('qwerty')).toBeFalsy();
+    });
+
+    it('numeric string', function () {
+        expect(_Validate2.default.isAlphaNumeric('34234')).toBeFalsy();
+    });
+
+});
+
+describe('isFirstCharUppercase method', function () {
+    it('First char uppercase string', function () {
+        expect(_Validate2.default.isFirstCharUppercase('Qwerty')).toBeTruthy();
+    });
+
+    it('First char not uppercase string', function () {
+        expect(_Validate2.default.isFirstCharUppercase('qwerty')).toBeFalsy();
+    });
+});

@@ -1,0 +1,30 @@
+{
+  "name": "jest-painless-javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "test": "jest"
+  },
+  "author": "s",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "babel-jest": "^19.0.0",
+    "react-test-renderer": "15.4.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "jest-cli": "^19.0.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}

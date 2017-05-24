@@ -1,0 +1,9 @@
+export default class Validate {
+    static isAlphaNumeric(str) {
+        return (/[^a-zA-Z0-9]/.test(str));
+    }
+
+    static isValidLength(str) {
+        const maxLength = 8;
+        return str.length >= maxLength;
+    }}

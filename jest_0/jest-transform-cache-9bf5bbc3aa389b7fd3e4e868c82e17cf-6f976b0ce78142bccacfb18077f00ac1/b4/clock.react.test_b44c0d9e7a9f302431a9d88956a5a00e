@@ -1,0 +1,11 @@
+'use strict';var _react = require('react');var _react2 = _interopRequireDefault(_react);
+var _Clock = require('../components/Clock');var _Clock2 = _interopRequireDefault(_Clock);
+var _reactTestRenderer = require('react-test-renderer');var _reactTestRenderer2 = _interopRequireDefault(_reactTestRenderer);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+jest.useFakeTimers();
+Date.now = jest.fn(function () {return 1482363367071;});
+
+it('renders correctly', function () {
+    var tree = _reactTestRenderer2.default.create(_react2.default.createElement(_Clock2.default, null)).toJSON();
+    expect(tree).toMatchSnapshot();
+});

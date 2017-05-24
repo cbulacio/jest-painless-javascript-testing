@@ -1,0 +1,11 @@
+import Validate from './Validate';
+
+describe('isValidLength method', () => {
+    it('length >= 8', () => {
+        expect(Validate.isValidLength('aaaaaaaa')).toBe(true);
+    });
+
+    it('length < 8', () => {
+        expect(Validate.isValidLength('aaaaa')).toBe(false);
+    });
+});

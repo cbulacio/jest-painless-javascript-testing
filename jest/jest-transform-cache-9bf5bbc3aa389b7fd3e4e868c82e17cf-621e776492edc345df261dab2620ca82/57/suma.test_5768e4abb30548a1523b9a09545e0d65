@@ -1,0 +1,9 @@
+'use strict';var _suma = require('./suma');var _suma2 = _interopRequireDefault(_suma);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+describe('other test', function () {
+
+    it('adds 1 + 2 to equal 3', function () {
+        expect((0, _suma2.default)(1, 2)).toBe(3);
+    });
+
+});
